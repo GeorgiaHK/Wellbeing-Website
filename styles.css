@@ -2,3 +2,10 @@ body {
     background: linear-gradient(to bottom right, #B0E0E6, #FFC0CB);
     background-attachment: fixed;
 }
+
+.body-div {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+    
+}
